@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "832034985338",
+    "project_id": "oneflix-c1af1",
+    "storage_bucket": "oneflix-c1af1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832034985338:android:537045e5daf76c3748f2c3",
+        "android_client_info": {
+          "package_name": "com.oneflix.streaming.guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832034985338-5lo23u2cju24i2h7ug0uqe6qkl0eo9j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneflix.streaming.guide",
+            "certificate_hash": "855254fc06e2196db53158e0ba0ed67daba1abea"
+          }
+        },
+        {
+          "client_id": "832034985338-7hh0mumgs3c5snskuue2rtvt56o7occs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneflix.streaming.guide",
+            "certificate_hash": "aebfe45735bc1bc278652c92f7329b511f97956c"
+          }
+        },
+        {
+          "client_id": "832034985338-7lg5kojem2sjtsv2s25e0e956e995lsr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneflix.streaming.guide",
+            "certificate_hash": "23a17351f4ba6daf7c999e223110d88e892805f3"
+          }
+        },
+        {
+          "client_id": "832034985338-94vcbno53bfp97t4gjjrp0l7gu3smdb5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneflix.streaming.guide",
+            "certificate_hash": "773383ca3f798129d6d73ed5e3bb5b9271211aec"
+          }
+        },
+        {
+          "client_id": "832034985338-ugi1c9o6l9qtuk7ctdubtncpsttk58u9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.oneflix.streaming.guide",
+            "certificate_hash": "6030e472d5b5cf4e2f6303ed77be5cb09c4572e8"
+          }
+        },
+        {
+          "client_id": "832034985338-h11chh4100g6gaq04qgjnt69v478h742.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8B87JBjTh0AEj5D1z1NnKL6FeXzVnDt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832034985338-h11chh4100g6gaq04qgjnt69v478h742.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832034985338-a3vbcj52j7pbfpecqkeold10va3nih24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.oneflix.streaming.guide"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
